@@ -1,0 +1,35 @@
+#LIBRARY:
+build-essential
+mpich2
+petsc
+hdf (zlib,byacc,flex,libjpeg)
+gd
+CGAL
+fftw
+
+##SOFTWARE:
+
+#visulization
+visit
+paraview
+geomview
+xgraph
+
+#word processing
+texlive-latex-recommend
+texlive-fonts-recommend
+xpdf
+
+#version control
+kdiff3
+git
+hg
+
+#math
+octave
+julia
+python
+python-matplotlib
+
+#accessory
+ctags
